@@ -1,2 +1,2 @@
 # FullDevLekce8
-Connecting to Neon tech db
+Connecting to Neon tech db using ExpressJS
